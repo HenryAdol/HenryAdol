@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 🖐️
+
+I'm Henry and I'm a CS student at UIC. 
+
+I'm currently learning SQL and Ubuntu.
+Some languages that I'm already familiar with are Java, Python and C++/C. 🙉
+
+You can also ask me about IRL languages like Japanese and Chinese 🐷
+
 
 <!--
 **HenryAdol/HenryAdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
